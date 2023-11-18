@@ -1,0 +1,24 @@
+{
+  "background_color": "#ffffff",
+  "description": "Mini:Paint Pro : Windows Paint Tool With Tons Of Features",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Mini:Paint Pro",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Mini:Paint Pro",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "productivity"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [
+    {
+      "name": "Mini:Paint Pro",
+      "url": "",
+      "description": ""
+    }
+  ]
+}
